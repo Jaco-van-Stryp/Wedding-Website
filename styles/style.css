@@ -54,6 +54,7 @@ button {
   padding-bottom: 100px;
   background-color: rgba(58, 0, 0, 0.692);
   border-radius: 30px;
+  border-color: white;
 }
 h1 {
   text-align: center;
@@ -89,7 +90,7 @@ h2 {
 #section-left {
   float: left;
   padding-right: 120px;
-  padding-bottom: 100px;
+  padding-bottom: 100%;
   margin-left: 3%;
   padding-right: 60px;
   margin-top: 30px;
