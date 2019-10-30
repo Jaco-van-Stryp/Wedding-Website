@@ -132,6 +132,8 @@ a:hover {
 }
 iframe {
   margin-left: 15%;
+  width: 35%;
+  height: 200px;
 }
 .galary:hover {
   animation-name: photoAnimation;
